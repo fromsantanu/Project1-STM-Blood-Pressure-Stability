@@ -24,7 +24,7 @@ Here is a Python program using the pandas and matplotlib libraries to create a l
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/sEScfOFJsDU/hqdefault.jpg)](https://www.youtube.com/watch?v=sEScfOFJsDU)
+[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
 
 ## Technologies-used
 
