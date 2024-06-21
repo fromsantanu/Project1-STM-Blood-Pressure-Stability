@@ -20,7 +20,11 @@
 
 ## Description
 
-Here is a Python program using the pandas and matplotlib libraries to create a line chart showing the trend of dengue cases over time. This example assumes you have a CSV file with two columns: "Date" and "Cases," where "Date" is in a datetime format and "Cases" represents the number of dengue cases reported.
+The program analyzes spread out of values in a data set around the mean (average) of that set. Low standard deviation suggests data points are consistently close to the mean, indicating reliability and predictability. High standard deviation suggests variability, indicating that the data points are spread out and less predictable.
+
+Here blood pressure study of systolic readings of two individuals indicate that one is stable and other is heavily fluctuating causing greater risk of heart attack.
+
+import matplotlib.pyplot as plt
 
 ## Video
 
