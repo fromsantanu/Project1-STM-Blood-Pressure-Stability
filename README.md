@@ -25,8 +25,11 @@ The program analyzes spread out of values in a data set around the mean (average
 Here blood pressure study of systolic readings of two individuals indicate that one is stable and other is heavily fluctuating causing greater risk of heart attack.
 
 ## Video
+<!--
+[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd) 
+-->
 
-[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
+We are working on this section. Please check at some other time.
 
 ## Technologies-used
 
