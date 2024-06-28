@@ -49,6 +49,30 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output.png)
 
+The program generates and plots blood pressure readings for two patients, illustrating the concept of standard deviation in layman's terms. Here's what the plot communicates:
+
+### Plot Overview:
+
+**Two Histograms:**
+- The left histogram shows blood pressure readings for a patient with low standard deviation.
+- The right histogram shows blood pressure readings for a patient with high standard deviation.
+
+### Key Points:
+**Mean Blood Pressure:**
+- Both patients have the same average (mean) blood pressure of 125 mmHg, represented by a dashed red line in each plot.
+
+**Standard Deviation:**
+- Low Standard Deviation (Left Plot): The blood pressure readings for this patient are tightly clustered around the mean. This means the patient's blood pressure is relatively stable and doesn't vary much.
+- High Standard Deviation (Right Plot): The blood pressure readings for this patient are spread out over a wider range. This means the patient's blood pressure varies significantly, with some readings much higher or lower than the average.
+
+### Interpretation:
+**Consistency of Blood Pressure:**
+- The left plot shows a patient whose blood pressure is consistently around 125 mmHg, indicating a more stable and predictable condition.
+- The right plot shows a patient whose blood pressure fluctuates more widely, indicating less stability and potentially higher risk for health issues.
+
+### In Layman's Terms:
+The plots visually explain that even if two patients have the same average blood pressure, one might have readings that are close to the average most of the time (left plot), while the other might have readings that vary a lot (right plot). The first patient's blood pressure is more stable, while the second patient's blood pressure fluctuates more, which could be a concern for their health.
+
 ## Contribution
 
 The programs are written by Santanu Karmakar
